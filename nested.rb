@@ -107,7 +107,9 @@ def changing_alan
      }
      #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
      alans_new_info = "GUI"
- programmer_hash[:alan_kay].each do |kf, lan|
+ programmer_hash.each do |name , val|
+   name.
+ end
    
  end
 end
